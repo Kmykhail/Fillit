@@ -24,15 +24,17 @@ The program should receive a file in which a list of figures (tetrimin) is writt
 ./fillit [file]
 
 Example:
-~ ./fillit samples/test_8
-`.AABB..
+```
+~ ./fillit samples/some_file
+
+.AABB..
 AACCB..
 .CC.BDD
 .EE.DD.
 EEFFGG.
 .FFGGHH
 ....HH.
-`
+```
 ## Author
 
 kmykhail
