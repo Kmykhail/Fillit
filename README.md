@@ -20,6 +20,10 @@ For a full review see `fillit.en.pdf`
 ##..
 ....
 ```
+## Compiling
+
+Run make )
+
 ## Usage:
 
 ./fillit [file]
