@@ -5,7 +5,7 @@ The program should receive a file in which a list of figures (tetrimin) is writt
 
 ## File contains tetramines 4x4:
 
-...#
+`...#
 ...#
 ..##
 ....
@@ -17,7 +17,7 @@ The program should receive a file in which a list of figures (tetrimin) is writt
 
 ##..
 ##..
-....
+....`
 
 ## Usage:
 
@@ -25,14 +25,14 @@ The program should receive a file in which a list of figures (tetrimin) is writt
 
 Example:
 ~ ./fillit samples/test_8
-.AABB..
+`.AABB..
 AACCB..
 .CC.BDD
 .EE.DD.
 EEFFGG.
 .FFGGHH
 ....HH.
-
+`
 ## Author
 
 kmykhail
