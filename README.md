@@ -24,7 +24,7 @@ For a full review see `fillit.en.pdf`
 
 Run make )
 
-## Usage:
+## Usage
 
 ./fillit [file]
 
